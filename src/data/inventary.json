@@ -1,0 +1,419 @@
+[
+  {
+    "stock": 12,
+    "product": "Platera 3 pisos",
+    "id": 20917,
+    "importer": "NS Store",
+    "unit_price": 13.75,
+    "stockForAllUnit": 165.00
+  },
+  {
+    "stock": 4,
+    "product": "Platera 3 pisos",
+    "id": 20917,
+    "importer": "Jeyko",
+    "unit_price": 13.50,
+    "stockForAllUnit": 54.00
+  },
+  {
+    "stock": 10,
+    "product": "Quita horquillas",
+    "id": 22654,
+    "importer": "Utopía",
+    "unit_price": 15.00,
+    "stockForAllUnit": 150.00
+  },
+  {
+    "stock": 2,
+    "product": "Perchero desmontable",
+    "id": 13759,
+    "importer": "Jeyko",
+    "unit_price": 9.25,
+    "stockForAllUnit": 18.50
+  },
+  {
+    "stock": 10,
+    "product": "Máquina de Boxeo (5 golpes)",
+    "id": 22589,
+    "importer": "NS Store",
+    "unit_price": 26.00,
+    "stockForAllUnit": 260.00
+  },
+  {
+    "stock": 17,
+    "product": "Máquina de Boxeo (6 golpes)",
+    "id": 22823,
+    "importer": "Kabstore",
+    "unit_price": 30.00,
+    "stockForAllUnit": 510.00
+  },
+  {
+    "stock": 21,
+    "product": "Nebulizador de malla",
+    "id": 19585,
+    "importer": "Fernández",
+    "unit_price": 9.50,
+    "stockForAllUnit": 199.50
+  },
+  {
+    "stock": 15,
+    "product": "Auriculares F9-5",
+    "id": 20378,
+    "importer": "Fernández",
+    "unit_price": 4.75,
+    "stockForAllUnit": 71.25
+  },
+  {
+    "stock": 4,
+    "product": "Audífonos F9",
+    "id": 22652,
+    "importer": "Jeyko",
+    "unit_price": 3.50,
+    "stockForAllUnit": 14.00
+  },
+  {
+    "stock": 5,
+    "product": "Retrovisores con cámara",
+    "id": 24750,
+    "importer": "Fernández",
+    "unit_price": 15.00,
+    "stockForAllUnit": 75.00
+  },
+  {
+    "stock": 29,
+    "product": "Herramienta para abolladuras",
+    "id": 19454,
+    "importer": "Jeyko",
+    "unit_price": 8.00,
+    "stockForAllUnit": 232.00
+  },
+  {
+    "stock": 2,
+    "product": "Sofá inflable estampado",
+    "id": 20566,
+    "importer": "Fernández",
+    "unit_price": 14.00,
+    "stockForAllUnit": 28.00
+  },
+  {
+    "stock": 7,
+    "product": "Selladora al vacío",
+    "id": 20427,
+    "importer": "Bonita",
+    "unit_price": 6.00,
+    "stockForAllUnit": 42.00
+  },
+  {
+    "stock": 5,
+    "product": "Taser de bolsillo",
+    "id": 19327,
+    "importer": "Jeyko",
+    "unit_price": 4.50,
+    "stockForAllUnit": 22.50
+  },
+  {
+    "stock": 22,
+    "product": "Versace Eros",
+    "id": 17847,
+    "importer": "JY",
+    "unit_price": 3.00,
+    "stockForAllUnit": 66.00
+  },
+  {
+    "stock": 4,
+    "product": "Robot aspiradora",
+    "id": 19573,
+    "importer": "NS Store",
+    "unit_price": 4.60,
+    "stockForAllUnit": 18.40
+  },
+  {
+    "stock": 2,
+    "product": "Máquinas de coser portátil",
+    "id": 14549,
+    "importer": "Bonita",
+    "unit_price": 26.00,
+    "stockForAllUnit": 52.00
+  },
+  {
+    "stock": 6,
+    "product": "Mini licuadora portátil",
+    "id": 12868,
+    "importer": "Cheng",
+    "unit_price": 7.50,
+    "stockForAllUnit": 45.00
+  },
+  {
+    "stock": 11,
+    "product": "Bioaqua para pestañas",
+    "id": 23292,
+    "importer": "Punto sur",
+    "unit_price": 1.75,
+    "stockForAllUnit": 19.25
+  },
+  {
+    "stock": 1,
+    "product": "Sofá inflable llano",
+    "id": 20566,
+    "importer": "NS Store",
+    "unit_price": 16.00,
+    "stockForAllUnit": 16.00
+  },
+  {
+    "stock": 7,
+    "product": "Estante para cocina",
+    "id": 14520,
+    "importer": "NS Store",
+    "unit_price": 12.80,
+    "stockForAllUnit": 89.60
+  },
+  {
+    "stock": 1,
+    "product": "Set 16 cubiertos",
+    "id": 12115,
+    "importer": "Jeyko",
+    "unit_price": 9.00,
+    "stockForAllUnit": 9.00
+  },
+  {
+    "stock": 1,
+    "product": "Platera de 1 pozo",
+    "id": 21259,
+    "importer": "NS Store",
+    "unit_price": 11.95,
+    "stockForAllUnit": 11.95
+  },
+  {
+    "stock": 3,
+    "product": "Trípodes Universal",
+    "id": 20375,
+    "importer": "Jeyko",
+    "unit_price": 3.50,
+    "stockForAllUnit": 10.50
+  },
+  {
+    "stock": 1,
+    "product": "Bleu de Chanel Triple A",
+    "id": 17347,
+    "importer": "Magic World",
+    "unit_price": 10.00,
+    "stockForAllUnit": 10.00
+  },
+  {
+    "stock": 3,
+    "product": "Organizador para brochas",
+    "id": 12797,
+    "importer": "Jeyko",
+    "unit_price": 7.50,
+    "stockForAllUnit": 22.50
+  },
+  {
+    "stock": 3,
+    "product": "Proyector Astronauta",
+    "id": 13760,
+    "importer": "NS Store",
+    "unit_price": 11.50,
+    "stockForAllUnit": 34.50
+  },
+  {
+    "stock": 3,
+    "product": "Taza mezcladora",
+    "id": 13003,
+    "importer": "Kirim",
+    "unit_price": 4.00,
+    "stockForAllUnit": 12.00
+  },
+  {
+    "stock": 1,
+    "product": "Trapeador 360",
+    "id": 12235,
+    "importer": "NS Store",
+    "unit_price": 7.30,
+    "stockForAllUnit": 7.30
+  },
+  {
+    "stock": 2,
+    "product": "Cepillo a vapor",
+    "id": 19551,
+    "importer": "Kayde",
+    "unit_price": 2.65,
+    "stockForAllUnit": 5.30
+  },
+  {
+    "stock": 2,
+    "product": "Estante metálico 3 niveles",
+    "id": 12114,
+    "importer": "Jeyko",
+    "unit_price": 7.50,
+    "stockForAllUnit": 15.00
+  },
+  {
+    "stock": 1,
+    "product": "Set de ralladores con bandeja",
+    "id": 11543,
+    "importer": "China Hogar",
+    "unit_price": 5.25,
+    "stockForAllUnit": 5.25
+  },
+  {
+    "stock": 1,
+    "product": "Platera 2 niveles",
+    "id": 21262,
+    "importer": "Tu hogar text",
+    "unit_price": 24.50,
+    "stockForAllUnit": 24.50
+  },
+  {
+    "stock": 1,
+    "product": "Báscula electrónica digital",
+    "id": 18097,
+    "importer": "Cheng",
+    "unit_price": 5.00,
+    "stockForAllUnit": 5.00
+  },
+  {
+    "stock": 1,
+    "product": "Báscula inteligente",
+    "id": 12640,
+    "importer": "Cheng",
+    "unit_price": 6.50,
+    "stockForAllUnit": 6.50
+  },
+  {
+    "stock": 1,
+    "product": "Cepillo eléctrico 4 en 1",
+    "id": 20885,
+    "importer": "Tu hogar text",
+    "unit_price": 5.50,
+    "stockForAllUnit": 5.50
+  },
+  {
+    "stock": 1,
+    "product": "Gramera digital",
+    "id": 12237,
+    "importer": "Cheng",
+    "unit_price": 3.00,
+    "stockForAllUnit": 3.00
+  },
+  {
+    "stock": 1,
+    "product": "Invictus Triple A",
+    "id": null,
+    "importer": "Izao",
+    "unit_price": 12.00,
+    "stockForAllUnit": 12.00
+  },
+  {
+    "stock": 1,
+    "product": "Limpiadora de brochas",
+    "id": 12552,
+    "importer": "Cheng",
+    "unit_price": 3.50,
+    "stockForAllUnit": 3.50
+  },
+  {
+    "stock": 1,
+    "product": "Pulidor de uñas",
+    "id": 12641,
+    "importer": "Cheng",
+    "unit_price": 2.50,
+    "stockForAllUnit": 2.50
+  },
+  {
+    "stock": 1,
+    "product": "Organizador de utensilios",
+    "id": 11556,
+    "importer": "Jeyko",
+    "unit_price": 4.40,
+    "stockForAllUnit": 4.40
+  },
+  {
+    "stock": 2,
+    "product": "Sartén de cerámica",
+    "id": 21495,
+    "importer": "JYK",
+    "unit_price": 19.00,
+    "stockForAllUnit": 38.00
+  },
+  {
+    "stock": 1,
+    "product": "Set de cuchillos con pelador",
+    "id": 12549,
+    "importer": "Jeyko",
+    "unit_price": 2.25,
+    "stockForAllUnit": 2.25
+  },
+  {
+    "stock": 1,
+    "product": "Audífonos estuche labial",
+    "id": 26227,
+    "importer": "Utopía",
+    "unit_price": 7.25,
+    "stockForAllUnit": 7.25
+  },
+  {
+    "stock": 1,
+    "product": "Gafas Hugo Boss",
+    "id": 21475,
+    "importer": "Quinoz",
+    "unit_price": 12.50,
+    "stockForAllUnit": 12.50
+  },
+  {
+    "stock": 1,
+    "product": "Gafas Tornasol azul",
+    "id": 21475,
+    "importer": "Quinoz",
+    "unit_price": 5.00,
+    "stockForAllUnit": 5.00
+  },
+  {
+    "stock": 1,
+    "product": "Proyector con parlante",
+    "id": 22561,
+    "importer": "NS Store",
+    "unit_price": 11.50,
+    "stockForAllUnit": 11.50
+  },
+  {
+    "stock": 1,
+    "product": "Pistola hidrolavadora",
+    "id": 18111,
+    "importer": "NS Store",
+    "unit_price": 16.00,
+    "stockForAllUnit": 16.00
+  },
+  {
+    "stock": 1,
+    "product": "Plancha Remington doble A",
+    "id": 23290,
+    "importer": "NS Store",
+    "unit_price": 8.50,
+    "stockForAllUnit": 8.50
+  },
+  {
+    "stock": 1,
+    "product": "Lámpara luz led",
+    "id": 21524,
+    "importer": "Fernández",
+    "unit_price": 4.50,
+    "stockForAllUnit": 4.50
+  },
+  {
+    "stock": 6,
+    "product": "212 VIP MEN",
+    "id": null,
+    "importer": "nan",
+    "unit_price": 4.00,
+    "stockForAllUnit": 24.00
+  },
+  {
+    "stock": 1,
+    "product": "Bolso cangurera",
+    "id": 22584,
+    "importer": "Fernández",
+    "unit_price": 6.50,
+    "stockForAllUnit": 6.50
+  }
+]
+
